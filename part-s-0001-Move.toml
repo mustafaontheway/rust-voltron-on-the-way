@@ -1,0 +1,17 @@
+[package]
+name = "defi"
+version = "1.0.0"
+authors = []
+edition = "2024.alpha"
+
+[addresses]
+my_temp_addr = "0xdeafbeef"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
