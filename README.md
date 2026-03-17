@@ -1,3 +1,3 @@
-2026 -> Move 
+2026 -> Rust Smart Contracts
 
-2027, 2028 -> Advanced Rust & Noir & Rust Smart Contracts
+2027, 2028 -> Advanced Rust & Noir 
