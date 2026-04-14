@@ -1,6 +1,6 @@
 fn main() {
 
-    let nums1 = [12, 32, 44, 76, 810000];
+    let nums1 = [12, 32, 44, 76, -810000, 473, 43440];
 
     let evens1 = even_nums(&nums1);
 
@@ -23,4 +23,4 @@ fn even_nums(nums: &[i32]) -> Vec<i32> {
     evens
 }
 
-// Even numbers 1 list: [12, 32, 44, 76, 810000]
+// Even numbers 1 list: [12, 32, 44, 76, -810000, 43440]
